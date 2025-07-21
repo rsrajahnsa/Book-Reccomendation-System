@@ -57,10 +57,6 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 
 This project is licensed under the MIT License.
 
-## Acknowledgements
-
-Thanks to all the contributors and the open-source community.
-
 ---
 
 For more details, visit the [GitHub repository](https://github.com/rsrajahnsa/Book-Reccomendation-System).
